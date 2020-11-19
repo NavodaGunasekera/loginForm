@@ -1,0 +1,5 @@
+package com.app.login.json;
+
+public class JsontodbApplication {
+
+}
